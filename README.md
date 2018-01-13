@@ -4,6 +4,9 @@ You can Auto Sell your SBD in BitTrex
 If you do not want to miss out on profit opportunities, 
 you may want to automatic selling "Steem Dollar" ;)
 
+You can see in action:
+https://www.youtube.com/watch?v=3NmTo9hO3J0 
+
 ---
 
 # --!-- WARNING! --!--
