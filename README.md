@@ -31,5 +31,7 @@ And **[ChromeWebDriver](https://sites.google.com/a/chromium.org/chromedriver/dow
 * Adjust the units as you want amount Or you can click on "Max button" using **Cliq** function
 * and Run: auto_sell_sbd_in_bittrex_v2.py ;)
 
-* For real working: should be **yesreal=1**  !! **ALL RESPONSIBILITIES YOUR OWN** !! 
+* For real working: should be **yesreal=1**  
+
+!! **ALL RESPONSIBILITIES YOUR OWN** !! 
 
