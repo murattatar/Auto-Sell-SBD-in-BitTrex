@@ -7,7 +7,7 @@ you may want to automatic selling "**Steem Dollars**" ;)
 You can see in action:
 https://www.youtube.com/watch?v=3NmTo9hO3J0 
 
----
+--- 
 
 # --!-- WARNING! --!--
 ###### YOU MUST, FIRST TRY WITH yesreal=0
